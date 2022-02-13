@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @droidmk1 or Alvaro.
+- 👀 I’m interested in Data Science, Data Analytics and Clustering Algorithms.
+- 🌱 I’m currently learning Bigquery, Python, Javascript, NodeJs.
+- 💞️ I’m looking to collaborate on Open Projects of Scientific Innovation.
+- 📫 How to reach me alvaro.farfan@unmsm.edu.pe
